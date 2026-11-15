@@ -1,0 +1,12 @@
+*.vmdk
+*.qcow2
+*.raw
+*.iso
+*.ova
+*.ovf
+*.pem
+*.key
+.env
+kubeconfig*
+admin.conf
+.DS_Store
